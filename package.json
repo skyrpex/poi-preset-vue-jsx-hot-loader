@@ -1,0 +1,28 @@
+{
+	"name": "poi-preset-vue-jsx-hot-loader",
+	"version": "0.0.0",
+	"description": "Vue JSX hot loader's Poi preset",
+	"license": "MIT",
+	"repository": "skyrpex/poi-preset-vue-jsx-hot-loader",
+	"author": {
+		"name": "Cristian Pallarés",
+		"email": "cristian@pallares.io",
+		"url": "pallares.io"
+	},
+	"engines": {
+		"node": ">=4"
+	},
+	"scripts": {
+		"test": "ava"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [],
+	"dependencies": {
+		"vue-jsx-hot-loader": "^1.1.3"
+	},
+	"devDependencies": {
+		"ava": "^0.19.1"
+	}
+}
